@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/kanbara12/news-image-20261119-kanbara12/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/kanbara12/news-image-20261119-kanbara12/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One newspaper front page for Thursday 19 November 2026: 26 stories from six continents. The three lead stories are the GTA VI global rollout, the Trump–Xi–Putin trilateral due in Shenzhen, and Iran firing on US bases in Kuwait and Bahrain. Nine more stories carry small illustrations. A world map pins the twelve illustrated stories by number, and the other fourteen run as a numbered list. Every story happened or was first reported that day. Scheduled items are worded as due. Contested claims are marked as claims. The footer names two items left out because they happened earlier.
+One newspaper front page for Thursday 19 November 2026: 21 stories from six continents. The lead is the GTA VI global rollout, with the Trump–Xi–Putin trilateral due in Shenzhen and Iran firing on US bases in Kuwait and Bahrain beside it. Nine more stories carry small illustrations, among them Scotland reaching a first World Cup in 28 years and Voyager 1 crossing one light-day from Earth. A world map pins the twelve illustrated stories by number, and nine more run as a numbered list. Every story happened or was first reported that day, scheduled items are worded as due, contested claims are marked as claims, and the footer names two items left out because they happened earlier.
 
 ## Run it
 
