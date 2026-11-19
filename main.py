@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Entry point for news-image-20261119 (@kanbara12), rebuilt version.
+"""Entry point for news-image-20261119 (@kanbara12).
 
-The front page is rendered at build time by render.py into entry.png.
-This program just copies that file into the output directory, so it
+The front page is drawn at build time by render.py into entry.png.
+This program only copies that file into the output directory, so it
 needs nothing but the standard library and writes identical bytes on
 every run.
 """
